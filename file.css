@@ -1,0 +1,14 @@
+img {
+  width: 40%;
+  float: left;
+}
+
+.image-1 {
+  filter: url()(100%);
+  -webkit-filter: url()(100%);
+}
+
+.image-2 {
+  filter: inherit(100%);
+  -webkit-filter: inherit(100%);
+}
